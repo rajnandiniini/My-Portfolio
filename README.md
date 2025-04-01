@@ -1,6 +1,6 @@
 # Developer Portfolio
 
-Welcome to the portfolio of **Rajnandini Singh Solanki**, an aspiring developer. This website showcases various projects, skills, and the journey of learning and growth in the field of development.
+Welcome to my portfolio. This website showcases my various projects, skills, and the journey of learning and growth in the field of development.
 
 ## Features
 
@@ -14,21 +14,24 @@ Welcome to the portfolio of **Rajnandini Singh Solanki**, an aspiring developer.
 
 ## Technologies Used
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **JavaScript**
 - **Responsive Design** (Using Flexbox and CSS Grid)
 - **Animations** (CSS keyframes)
 - **GitHub Pages** (For hosting the website)
 
-## Project Structure
 
-The project includes the following key files and folders:
+## Future Enhancements
 
-- `index.html`: The main homepage of the portfolio.
-- `images/`: Folder containing images like profile pictures or project screenshots.
-- `README.md`: This file with project details and instructions.
-- `style.css`: All custom styling for the portfolio.
-- `project1/`: Directory for the first project with relevant files.
+Here are some features that I plan to work on in the future:
+
+- **Dark Mode:** Add a toggle for users to switch between dark and light modes.
+- **Project Filtering:** Implement a feature to filter projects based on tags or categories.
+- **Blog Section:** Include a personal blog where I can share thoughts and tutorials.
+- **Animations and Transitions:** Further enhance the visual appeal with more advanced CSS and JavaScript animations.
+
+Feel free to submit pull requests with enhancements that you believe will improve the portfolio.
+
 
 
